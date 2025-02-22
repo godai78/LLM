@@ -68,4 +68,4 @@ Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardzi
 
 ![Minizine](assets/ziny_z_malym_budzetem.jpg "Ziny: tworzenie i dystrybucja przy niskim budżecie")
 
-[Pobież gotowy do druku minizin (wkrótce!)](#)
+[Pobierz gotowy do druku minizin (wkrótce!)](#)
