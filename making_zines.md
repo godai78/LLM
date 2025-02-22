@@ -33,19 +33,13 @@ Creating and distributing zines on a budget is totally doable with some creativi
 * Fold & cut (single-sheet mini zines are easy and cost nothing for binding).
 * Thread binding if you want a more handmade feel.
 
-### Distribution &ndash; Free & Low-Cost Methods
+### Free & Low-Cost Distribution
 
 * Local Spots: Leave copies at cafes, bookstores, libraries, community centers, or record shops.
 * Mail Trades: Trade zines with other zinesters via mail.
 * Zine Fests & DIY Events: Sell or give them away at zine fairs.
 * Online PDFs: Offer free or pay-what-you-can PDFs via Gumroad, Itch.io, or a blog.
 * Social Media: Promote on Instagram, Tumblr, or Twitter. Use hashtags like #zines #DIYzines.
-
-### Selling Your Zine
-
-* Itch.io, Etsy or Big Cartel: Sell physical copies affordably.
-* Ko-fi or Patreon: Offer zines as rewards for small donations.
-* Zine Libraries & Distros: Submit to indie distros (e.g., Pioneers Press, Antiquated Future).
 
 ### Keep Costs Low
 
