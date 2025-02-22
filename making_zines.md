@@ -40,6 +40,9 @@ Creating and distributing zines on a budget is totally doable with some creativi
 * Zine Fests & DIY Events: Sell or give them away at zine fairs.
 * Online PDFs: Offer free or pay-what-you-can PDFs via Gumroad, Itch.io, or a blog.
 * Social Media: Promote on Instagram, Tumblr, or Twitter. Use hashtags like #zines #DIYzines.
+* Etsy or Big Cartel: Sell physical copies affordably.
+* Ko-fi or Patreon: Offer zines as rewards for small donations.
+* Zine Libraries & Distros: Submit to indie distros.
 
 ### Keep Costs Low
 
