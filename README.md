@@ -1,2 +1,2 @@
 # LLM
-AI lessons repo
+AI lessons repo by godai
