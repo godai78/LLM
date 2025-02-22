@@ -1,4 +1,4 @@
-## Tworzenie i dystrybucja zinów przy niskim budżecie <!-- omit in toc -->
+# Tworzenie i dystrybucja zinów przy niskim budżecie <!-- omit in toc -->
 
 [EN version](making_zines.md)
 
