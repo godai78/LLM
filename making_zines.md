@@ -29,9 +29,9 @@ Creating and distributing zines on a budget is totally doable with some creativi
 
 ### Design and Layout
 
-* Use free software like Canva, GIMP, Scribus, or even Google Docs for layout.
-* Hand-drawn & collaged zines work well if you prefer an analog style—just scan or photocopy.
-* Keep it black and white if printing to cut costs.
+* Use free software like Canva, Krita, Scribus, or even Google Docs for layout.
+* Hand-drawn & collaged zines work well if you prefer an analog and oldschool style—just scan or photocopy.
+* Keep it black and white if printing to cut volume and hence costs.
 
 ### Printing on a Budget
 
