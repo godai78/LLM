@@ -7,8 +7,8 @@
 	- [Plan Your Zine](#plan-your-zine)
 	- [Design and Layout](#design-and-layout)
 	- [Printing on a Budget](#printing-on-a-budget)
-	- [Binding \& Assembly](#binding--assembly)
-	- [Free \& Low-Cost Distribution](#free--low-cost-distribution)
+	- [Binding and Assembly](#binding-and-assembly)
+	- [Free and Low-Cost Distribution](#free-and-low-cost-distribution)
 	- [Keep Costs Low](#keep-costs-low)
 - [Free minizine to download](#free-minizine-to-download)
 
@@ -40,13 +40,13 @@ Creating and distributing zines on a budget is totally doable with some creativi
 * Risograph Printing: If you have access to a Riso machine, it’s a cheap option for bulk printing.
 * Recycled Paper: Check thrift stores, scrap bins, or ask print shops for leftover paper.
 
-### Binding & Assembly
+### Binding and Assembly
 
 * Staple-bound (use a long-arm stapler for neatness).
 * Fold & cut (single-sheet mini zines are easy and cost nothing for binding).
 * Thread binding if you want a more handmade feel.
 
-### Free & Low-Cost Distribution
+### Free and Low-Cost Distribution
 
 * Local Spots: Leave copies at cafes, bookstores, libraries, community centers, or record shops.
 * Mail Trades: Trade zines with other zinesters via mail.
