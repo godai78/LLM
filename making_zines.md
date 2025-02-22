@@ -70,3 +70,5 @@ Creating and distributing zines on a budget is totally doable with some creativi
 ![Minizine](assets/zines_on_a_budget.jpg "Zines on a budget - a minizine")
 
 [Download a print-ready minizine (soon!)](#)
+
+![CC BY-NC-ND](assets/by-nc-nd-150x52.png "Creative commons - Attribution - Non-commercial - No derivatives")
