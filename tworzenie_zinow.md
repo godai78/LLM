@@ -58,9 +58,9 @@ Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardzi
 
 ### Jak obniżyć koszty
 
-* Współpracuj z innymi, aby podzielić się kosztami druku i wysyłki.  
-* Korzystaj z materiałów z odzysku (stare gazety, skrawki papieru).  
-* Drukuj tylko tyle egzemplarzy, ile naprawdę potrzebujesz, aby uniknąć marnowania zasobów. 
+* Współpracuj z innymi, aby podzielić się kosztami druku i wysyłki.
+* Korzystaj z materiałów z odzysku (stare gazety, skrawki papieru).
+* Drukuj tylko tyle egzemplarzy, ile naprawdę potrzebujesz, aby uniknąć marnowania zasobów.
 
 ---
 
