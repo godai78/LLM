@@ -10,6 +10,7 @@
 	- [Oprawa i składanie](#oprawa-i-składanie)
 	- [Bezpłatna i tania dystrybucja](#bezpłatna-i-tania-dystrybucja)
 	- [Jak obniżyć koszty](#jak-obniżyć-koszty)
+- [Darmowy minizin do pobrania](#darmowy-minizin-do-pobrania)
 
 ## Czym są ziny?
 
@@ -59,4 +60,12 @@ Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardzi
 
 * Współpracuj z innymi, aby podzielić się kosztami druku i wysyłki.  
 * Korzystaj z materiałów z odzysku (stare gazety, skrawki papieru).  
-* Drukuj tylko tyle egzemplarzy, ile naprawdę potrzebujesz, aby uniknąć marnowania zasobów.  
+* Drukuj tylko tyle egzemplarzy, ile naprawdę potrzebujesz, aby uniknąć marnowania zasobów. 
+
+---
+
+## Darmowy minizin do pobrania
+
+![Minizine](assets/ziny_z_malym_budzetem.jpg "Ziny: tworzenie i dystrybucja przy niskim budżecie")
+
+[Pobież gotowy do druku minizin (wkrótce!)](#)

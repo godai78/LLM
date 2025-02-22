@@ -10,6 +10,7 @@
 	- [Binding \& Assembly](#binding--assembly)
 	- [Free \& Low-Cost Distribution](#free--low-cost-distribution)
 	- [Keep Costs Low](#keep-costs-low)
+- [Free minizine to download](#free-minizine-to-download)
 
 
 ## What are zines?
@@ -61,3 +62,11 @@ Creating and distributing zines on a budget is totally doable with some creativi
 * Collaborate with others to share printing and shipping costs.
 * Use found materials (scrap paper, old magazines).
 * Print only as many as needed to avoid waste.
+
+---
+
+## Free minizine to download
+
+![Minizine](assets/zines_on_a_budget.jpg "Zines on a budget - a minizine")
+
+[Download a print-ready minizine (soon!)](#)
