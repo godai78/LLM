@@ -1,4 +1,16 @@
-# Creating and distributing zines on a budget
+# Creating and distributing zines on a budget <!-- omit in toc -->
+
+[Wersja PL](tworzenie_zinow.md)
+
+- [What are zines?](#what-are-zines)
+- [Making zines](#making-zines)
+	- [Plan Your Zine](#plan-your-zine)
+	- [Design and Layout](#design-and-layout)
+	- [Printing on a Budget](#printing-on-a-budget)
+	- [Binding \& Assembly](#binding--assembly)
+	- [Free \& Low-Cost Distribution](#free--low-cost-distribution)
+	- [Keep Costs Low](#keep-costs-low)
+
 
 ## What are zines?
 
