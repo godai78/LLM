@@ -8,7 +8,7 @@
 	- [Projekt i układ](#projekt-i-układ)
 	- [Drukowanie przy niskim budżecie](#drukowanie-przy-niskim-budżecie)
 	- [Oprawa i składanie](#oprawa-i-składanie)
-	- [Bezpłatna i tania dystrybucja](#bezpłatna-i-tania-dystrybucja)
+	- [Bezpłatna lub tania dystrybucja](#bezpłatna-lub-tania-dystrybucja)
 	- [Jak obniżyć koszty](#jak-obniżyć-koszty)
 - [Darmowy minizin do pobrania](#darmowy-minizin-do-pobrania)
 
@@ -45,14 +45,14 @@ Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardzi
 * Składanie i cięcie &ndash; miniziny z jednej kartki to tani i prosty sposób na publikację.
 * Szycie nitką &ndash; jeśli chcesz bardziej rękodzielniczego wyglądu.
 
-### Bezpłatna i tania dystrybucja
+### Bezpłatna lub tania dystrybucja
 
 * Miejsca w twojej okolicy &ndash; zostawiaj ziny w kawiarniach, księgarniach, bibliotekach, świetlicach lub sklepach muzycznych.
 * Wymiana pocztowa &ndash; wymieniaj się zinami z innymi twórcami.
 * Festiwale i wydarzenia DIY &ndash; sprzedawaj lub rozdawaj ziny na targach zinowych.
 * Pliki PDF online &ndash; udostępniaj ziny za darmo lub w modelu „płać ile chcesz” plików na platformach takich jak Gumroad, Itch.io czy blogi.
 * Media społecznościowe &ndash; promuj swoje ziny na Instagramie, Tumblrze czy Twitterze, używając hashtagów #zines #DIYzines.
-* Etsy lub Big Cartel &ndash; sprzedawaj fizyczne kopie w przystępnych cenach.
+* Etsy lub OLX &ndash; sprzedawaj fizyczne kopie w przystępnych cenach.
 * Ko-fi lub Patreon &ndash; oferuj ziny jako nagrody za drobne wpłaty.
 * Biblioteki zinowe i dystrybucje &ndash; zgłoś swoje ziny do niezależnych dystrybutorów.
 
