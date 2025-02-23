@@ -15,7 +15,7 @@
 
 ## What are zines?
 
-Zines (short for "magazines" or "fanzines") are small, self-published booklets that cover a wide range of topics, from art and activism to personal stories and niche interests. Often created with a DIY approach, zines can be handmade, photocopied, or digitally printed, making them an accessible and low-cost way to share ideas. They have roots in underground and countercultural movements, allowing creators to express themselves freely without the constraints of mainstream publishing. Whether political, poetic, or purely artistic, zines serve as a powerful tool for self-expression and community building.
+Zines (short for "magazines" or "fanzines", pronounces "_zeenes_") are small, self-published booklets that cover a wide range of topics, from art and activism to personal stories and niche interests. Often created with a DIY approach, zines can be handmade, photocopied, or digitally printed, making them an accessible and low-cost way to share ideas. They have roots in underground and countercultural movements, allowing creators to express themselves freely without the constraints of mainstream publishing. Whether political, poetic, or purely artistic, zines serve as a powerful tool for self-expression and community building.
 
 ## Making zines
 
