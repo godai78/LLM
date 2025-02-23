@@ -3,7 +3,7 @@
 [EN version](making_zines.md)
 
 - [Czym są ziny?](#czym-są-ziny)
-- [Tworzenie zinów](#tworzenie-zinów)
+- [Ziny: tworzenie i dystrybucja przy niskim budżecie](#ziny-tworzenie-i-dystrybucja-przy-niskim-budżecie)
 	- [Zaplanuj swój zin](#zaplanuj-swój-zin)
 	- [Projekt i układ](#projekt-i-układ)
 	- [Drukowanie przy niskim budżecie](#drukowanie-przy-niskim-budżecie)
@@ -16,7 +16,7 @@
 
 Ziny (ang. _zine_, skrót od "magazine") to małe, samodzielnie publikowane broszury, które obejmują szeroki zakres tematów &ndash; od sztuki i aktywizmu po osobiste historie i niszowe zainteresowania. Często tworzone w duchu DIY, mogą być ręcznie robione, kserowane lub drukowane cyfrowo, co czyni je dostępnym i niedrogim sposobem na dzielenie się pomysłami. Mają swoje korzenie w ruchach undergroundowych i kontrkulturze, umożliwiając twórcom swobodną ekspresję poza ograniczeniami tradycyjnego wydawnictwa. Niezależnie od tego, czy są polityczne, poetyckie czy czysto artystyczne, ziny są potężnym narzędziem samowyrażania i budowania społeczności.
 
-## Tworzenie zinów
+## Ziny: tworzenie i dystrybucja przy niskim budżecie
 
 Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardziej możliwe dzięki kreatywności i zaradności. Oto krok po kroku, jak to zrobić:
 
