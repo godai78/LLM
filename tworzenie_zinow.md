@@ -14,16 +14,14 @@
 
 ## Czym są ziny?
 
-Ziny (ang. _zine_, skrót od "magazine") to małe, samodzielnie publikowane broszury, które obejmują szeroki zakres tematów &ndash; od sztuki i aktywizmu po osobiste historie i niszowe zainteresowania. Często tworzone w duchu DIY, mogą być ręcznie robione, kserowane lub drukowane cyfrowo, co czyni je dostępnym i niedrogim sposobem na dzielenie się pomysłami. Mają swoje korzenie w ruchach undergroundowych i kontrkulturze, umożliwiając twórcom swobodną ekspresję poza ograniczeniami tradycyjnego wydawnictwa. Niezależnie od tego, czy są polityczne, poetyckie czy czysto artystyczne, ziny są potężnym narzędziem samowyrażania i budowania społeczności.
+Ziny (ang. _zine_, skrót od „magazine”) to małe, samodzielnie publikowane broszury, które obejmują szeroki zakres tematów &ndash; od sztuki i aktywizmu po osobiste historie i niszowe zainteresowania. Często tworzone w duchu DIY, mogą być ręcznie robione, kserowane lub drukowane cyfrowo, co czyni je dostępnym i niedrogim sposobem na dzielenie się pomysłami. Mają swoje korzenie w ruchach undergroundowych i kontrkulturze, umożliwiając twórcom swobodną ekspresję poza ograniczeniami tradycyjnego wydawnictwa. Niezależnie od tego, czy są polityczne, poetyckie czy czysto artystyczne, ziny są potężnym narzędziem samowyrażania i budowania społeczności.
 
 ## Ziny: tworzenie i dystrybucja przy niskim budżecie
-
-Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardziej możliwe dzięki kreatywności i zaradności. Oto krok po kroku, jak to zrobić:
 
 ### Zaplanuj swój zin
 
 * Wybierz temat lub motyw przewodni (np. sztuka, poezja, aktywizm, eseje osobiste).
-* Określ format: A5, A6 lub prosty, składany zin z jednej kartki, aby zaoszczędzić na druku.
+* Określ format: A5, A6 lub prosty, składany jednokartkowy zin.
 * Trzymaj się krótkiej formy, aby zminimalizować objętość i koszty.
 
 ### Projekt i układ
@@ -42,15 +40,15 @@ Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardzi
 ### Oprawa i składanie
 
 * Zszywki &ndash; użyj długiego zszywacza, aby uzyskać równy grzbiet.
-* Składanie i cięcie &ndash; miniziny z jednej kartki to tani i prosty sposób na publikację.
+* Składanie i cięcie &ndash; jednokartkowe miniziny to tani i prosty sposób na publikację.
 * Szycie nitką &ndash; jeśli chcesz bardziej rękodzielniczego wyglądu.
 
 ### Bezpłatna lub tania dystrybucja
 
 * Miejsca w twojej okolicy &ndash; zostawiaj ziny w kawiarniach, księgarniach, bibliotekach, domach kultury lub sklepach muzycznych.
-* Wymiana pocztowa &ndash; wymieniaj się zinami z innymi twórcami.
+* Wymiana mailowa &ndash; wymieniaj się zinami z innymi twórcami.
 * Festiwale i wydarzenia DIY &ndash; sprzedawaj lub rozdawaj ziny na targach zinowych.
-* Pliki PDF online &ndash; udostępniaj ziny za darmo lub w modelu „płać ile chcesz” plików na platformach takich jak Gumroad, Itch.io czy blogi.
+* Pliki PDF online &ndash; udostępniaj ziny za darmo lub w modelu „płać, ile chcesz” na platformach takich jak Gumroad, Itch.io czy blogi.
 * Media społecznościowe &ndash; promuj swoje ziny na Instagramie, Tumblrze czy Twitterze, używając hashtagów #zines #DIYzines.
 * Etsy lub OLX &ndash; sprzedawaj fizyczne kopie w przystępnych cenach.
 * Ko-fi lub Patreon &ndash; oferuj ziny jako nagrody za drobne wpłaty.
