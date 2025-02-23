@@ -19,12 +19,10 @@ Zines (short for "magazines" or "fanzines") are small, self-published booklets t
 
 ## Making zines
 
-Creating and distributing zines on a budget is totally doable with some creativity and resourcefulness. Here’s a step-by-step guide to help you:
-
 ### Plan Your Zine
 
 * Decide on a theme or focus for your zine (e.g., art, poetry, activism, personal essays).
-* Determine the format: A5, A6, or even a simple single-sheet foldable zine to save on printing.
+* Determine the format: A5, A6, or even a simple single-sheet foldable zine.
 * Keep it short to minimize printing costs.
 
 ### Design and Layout
