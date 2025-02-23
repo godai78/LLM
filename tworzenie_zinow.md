@@ -41,7 +41,7 @@ Ziny (ang. _zine_, skrót od „magazine”) to małe, samodzielnie publikowane 
 
 * Zszywki &ndash; użyj długiego zszywacza, aby uzyskać równy grzbiet.
 * Składanie i cięcie &ndash; jednokartkowe miniziny to tani i prosty sposób na publikację.
-* Szycie nitką &ndash; jeśli chcesz bardziej rękodzielniczego wyglądu.
+* Szycie nitką &ndash; jeśli zależy ci na bardziej rękodzielniczym wyglądzie twojego zina.
 
 ### Bezpłatna lub tania dystrybucja
 
