@@ -47,7 +47,7 @@ Tworzenie i dystrybuowanie zinów przy ograniczonym budżecie jest jak najbardzi
 
 ### Bezpłatna lub tania dystrybucja
 
-* Miejsca w twojej okolicy &ndash; zostawiaj ziny w kawiarniach, księgarniach, bibliotekach, świetlicach lub sklepach muzycznych.
+* Miejsca w twojej okolicy &ndash; zostawiaj ziny w kawiarniach, księgarniach, bibliotekach, domach kultury lub sklepach muzycznych.
 * Wymiana pocztowa &ndash; wymieniaj się zinami z innymi twórcami.
 * Festiwale i wydarzenia DIY &ndash; sprzedawaj lub rozdawaj ziny na targach zinowych.
 * Pliki PDF online &ndash; udostępniaj ziny za darmo lub w modelu „płać ile chcesz” plików na platformach takich jak Gumroad, Itch.io czy blogi.
