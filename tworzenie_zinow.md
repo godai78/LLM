@@ -46,7 +46,7 @@ Ziny (ang. _zine_, skrót od „magazine”) to małe, samodzielnie publikowane 
 ### Bezpłatna lub tania dystrybucja
 
 * Miejsca w twojej okolicy &ndash; zostawiaj ziny w kawiarniach, księgarniach, bibliotekach, domach kultury lub sklepach muzycznych.
-* Wymiana mailowa &ndash; wymieniaj się zinami z innymi twórcami.
+* Wymiana pocztowa lub mailowa &ndash; wymieniaj się zinami z innymi twórcami.
 * Festiwale i wydarzenia DIY &ndash; sprzedawaj lub rozdawaj ziny na targach zinowych.
 * Pliki PDF online &ndash; udostępniaj ziny za darmo lub w modelu „płać, ile chcesz” na platformach takich jak Gumroad, Itch.io czy blogi.
 * Media społecznościowe &ndash; promuj swoje ziny na Instagramie, Tumblrze czy Twitterze, używając hashtagów #zines #DIYzines.
